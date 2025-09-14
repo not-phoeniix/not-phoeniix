@@ -15,6 +15,6 @@
 
 Hi there! I'm Nikki and I make stuff :]
 
-I'm currently a third year game design and development student at Rochester Institute of Technology. A lot of the projects here are pebble watchfaces, games, and linux things. I code a bunch of things in a variety of languages, though, so go check some of em out!
+I'm currently a fourth year game design and development student at Rochester Institute of Technology. A lot of the projects here are pebble watchfaces, games, and linux things. I code a bunch of things in a variety of languages, though, so go check some of em out!
 
 I hope you have a great day!
